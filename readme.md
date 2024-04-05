@@ -1,4 +1,4 @@
-# Stable-Dreamfusion
+# Stable-Dreamfusion.
 
 A pytorch implementation of the text-to-3D model **Dreamfusion**, powered by the [Stable Diffusion](https://github.com/CompVis/stable-diffusion) text-to-2D model.
 
