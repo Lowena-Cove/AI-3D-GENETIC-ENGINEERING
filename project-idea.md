@@ -30,9 +30,9 @@ Here are some keyfeatures that will be included in our CRISPR simulation and chi
 
 ### PotentialApplications
 
-* *Research Aid*: Scientists can use the tool to explore evolutionary relationshipsbetween organisms; Assess the feasibility of creating novel organismsthrough genetic modifications.
-* *BiomedicalInnovation*: Aid in understanding genetic diseases by simulatingaffected organisms and potential gene therapies; Explore the creationof synthetic organisms for medical purposes.
-* *Educational Tool*: Universities and students can use the tool to understand complexgenetic concepts through interactive simulations; Demonstrate theimpact of genetic modifications and evolution on organismdevelopment.
+* **Research Aid**: Scientists can use the tool to explore evolutionary relationshipsbetween organisms; Assess the feasibility of creating novel organismsthrough genetic modifications.
+* **BiomedicalInnovation**: Aid in understanding genetic diseases by simulatingaffected organisms and potential gene therapies; Explore the creationof synthetic organisms for medical purposes.
+* **Educational Tool**: Universities and students can use the tool to understand complexgenetic concepts through interactive simulations; Demonstrate theimpact of genetic modifications and evolution on organismdevelopment.
 
 ### Target Users
 
