@@ -40,13 +40,27 @@ Our project aims tobe a valuable tool for genetic engineers, molecular biologist
 
 ### Technology Stack (Yet to be Determined)
 
-The following is a list of technologies that may be used in the development of our CRISPR simulation and chimera maker tool:
+The following three options for technologies that can be used in the development of our CRISPR simulation and chimera maker tool. For me, Dirk Jan, the C language is preferable, although it differs from the standard in AI development, namely Python. I would like to avoid Python because of the tab syntax which I don't like and C has everything a language needs. All these extra features, libraries and tricks in a modern languages have are useless and makes it more complicated, bigger, clunkier and slower. Just to express my opinion. We need to discuss this to reach a decision.
+
+#### Option A:
+
+- **Programming language:** C will be the primary language used for this project due to it is a simplistic (no big clunky function libraries) and fast processing.
+- **AI and machine learning:** C compatible Libraries will be used to implement AI-based prediction algorithms.
+- **3D modeling:** OpenGL or a C language compatible game engine can be used to used to convert DNA sequences into 3D models and visualize them.
+- **Bioinformatics:** C compatible Libraries will be used for gene analysis and prediction of gene functions.
+- **Virtual laboratory:** OpenGL or a c language compatible game engine can be used to create avirtual laboratory environment where the CRISPR experiments can besimulated and observed.
+
+#### Option B:
 
 - **Programming language:** Python will be the primary language used for this project due to its extensive libraries for AI, 3D modeling, and bioinformatics.
 - **AI and machine learning:** Libraries such as TensorFlow, Keras, and Scikit-learn will be used to implement AI-based prediction algorithms.
-- **3D modeling:** Unity or any other game engine can be used to used to convert DNA sequences into 3D models and visualize them.
+- **3D modeling:** Libraries such as PyMOL, Biopython, and Moltemplate will be used to convert DNA sequences into 3D models and visualize them.
 - **Bioinformatics:** Libraries such as Biopython, BLAST, and Clustal will be used for gene analysis and prediction of gene functions.
-- **Virtual laboratory:** Unity or any other game engine can be used to create avirtual laboratory environment where the CRISPR experiments can besimulated and observed.
+- **Virtual laboratory:** Unity or any other game engine can be used to create a virtual laboratory environment where the CRISPR experiments can be simulated and observed.
+
+#### Option C:
+
+- Use unity as client appllication and Python or C as the API backend.
 
 ### Conclusion
 
