@@ -14,24 +14,24 @@ Bioinformatics toolshave been used to for the analysis of genes, genomes, and bi
 Here are some keyfeatures that will be included in our CRISPR simulation and chimeramaker tool:
 
 - **AI-basedprediction of CRISPR outcomes:** Using machine learning algorithms, our tool will be able to accurately predict the outcomes of CRISPR modifications, including targeted mutations, insertions or deletions.This will save time and resources for researchers, as they canevaluate the potential effects of modifications before conductingexperiments.
-- **3D modeling fromDNA:** The tool will be able to convert DNA sequences into 3D models, providing a visual representation of the outcome of the geneticstructure. This will allow researchers to better predict thepossible outcome of the modification.
+- **3D modeling from DNA:** The tool will be able to convert DNA sequences into 3D models, providing a visual representation of the outcome of the geneticstructure. This will allow researchers to better predict thepossible outcome of the modification.
 - **Chimera maker:** Our tool will have the ability to merge DNA from different speciesand create chimeric DNA sequences. This feature can aid in thecreation of new organisms with specific traits and functions,advancing the capabilities of genetic engineering.
-- **Identificationof gene functions:** By analyzing the DNA sequence and usingbioinformatics tools, our tool will be able to predict the functions of genes and help researchers identify potential targets for modifications.
-- **Virtual CRISPRexperiments:** The tool will have a built-in virtual laboratory where researchers can perform simulated CRISPR experiments and observe theoutcomes. This will provide a safe and efficient way to test andoptimize modifications before conducting experiments in a real laboratory.
+- **Identification of gene functions:** By analyzing the DNA sequence and usingbioinformatics tools, our tool will be able to predict the functions of genes and help researchers identify potential targets for modifications.
+- **Virtual CRISPR experiments:** The tool will have a built-in virtual laboratory where researchers can perform simulated CRISPR experiments and observe theoutcomes. This will provide a safe and efficient way to test andoptimize modifications before conducting experiments in a real laboratory.
 
 ### How It Works
 
-* Users inputparameters for organisms, such as size, complexity, and known geneticdata.
-* The simulationgenerates virtual organisms based on these parameters.
-* The AI analyzessimulated organism data, learning patterns of cell development, genetic sequences, and relative complexity.
-* As users provideunfinished genetic sequences, the AI predicts potential completionsbased on known evolutionary paths.
-* Users can selectorganisms from the simulation or input external genetic data.
-* The AI assessescompatibility and potential outcomes, guiding users in creating chimeras with predicted characteristics.
+* Users input parameters for organisms, such as size, complexity, and known geneticdata.
+* The simulation generates virtual organisms based on these parameters.
+* The AI analyzes simulated organism data, learning patterns of cell development, genetic sequences, and relative complexity.
+* As users provide unfinished genetic sequences, the AI predicts potential completionsbased on known evolutionary paths.
+* Users can select organisms from the simulation or input external genetic data.
+* The AI assesses compatibility and potential outcomes, guiding users in creating chimeras with predicted characteristics.
 
 ### PotentialApplications
 
 * **Research Aid**: Scientists can use the tool to explore evolutionary relationshipsbetween organisms; Assess the feasibility of creating novel organismsthrough genetic modifications.
-* **BiomedicalInnovation**: Aid in understanding genetic diseases by simulatingaffected organisms and potential gene therapies; Explore the creationof synthetic organisms for medical purposes.
+* **Biomedical Innovation**: Aid in understanding genetic diseases by simulatingaffected organisms and potential gene therapies; Explore the creationof synthetic organisms for medical purposes.
 * **Educational Tool**: Universities and students can use the tool to understand complexgenetic concepts through interactive simulations; Demonstrate theimpact of genetic modifications and evolution on organismdevelopment.
 
 ### Target Users
