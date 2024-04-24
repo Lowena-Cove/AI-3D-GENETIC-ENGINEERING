@@ -17,7 +17,7 @@ Here are some keyfeatures that will be included in our CRISPR simulation and chi
 - **3D modeling from DNA:** The tool will be able to convert DNA sequences into 3D models, providing a visual representation of the outcome of the geneticstructure. This will allow researchers to better predict thepossible outcome of the modification.
 - **Chimera maker:** Our tool will have the ability to merge DNA from different species and create chimeric DNA sequences. This feature can aid in thecreation of new organisms with specific traits and functions,advancing the capabilities of genetic engineering.
 - **Identification of gene functions:** By analyzing the DNA sequence and using bioinformatics tools, our tool will be able to predict the functions of genes and help researchers identify potential targets for modifications.
-- **Virtual CRISPR experiments:** The tool will have a built-in virtual laboratory where researchers can perform simulated CRISPR experiments and observe theo utcomes. This will provide a safe and efficient way to test and optimize modifications before conducting experiments in a real laboratory.
+- **Virtual CRISPR experiments:** The tool will have a built-in virtual laboratory where researchers can perform simulated CRISPR experiments and observe the outcomes. This will provide a safe and efficient way to test and optimize modifications before conducting experiments in a real laboratory.
 
 ### How It Works
 
