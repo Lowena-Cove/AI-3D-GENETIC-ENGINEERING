@@ -28,7 +28,7 @@ Here are some keyfeatures that will be included in our CRISPR simulation and chi
 * Users can select organisms from the simulation or input external genetic data.
 * The AI assesses compatibility and potential outcomes, guiding users in creating chimeras with predicted characteristics.
 
-### PotentialApplications
+### Potential Applications
 
 * **Research Aid**: Scientists can use the tool to explore evolutionary relationships between organisms; Assess the feasibility of creating novel organisms through genetic modifications.
 * **Biomedical Innovation**: Aid in understanding genetic diseases by simulating affected organisms and potential gene therapies; Explore the creation of synthetic organisms for medical purposes.
