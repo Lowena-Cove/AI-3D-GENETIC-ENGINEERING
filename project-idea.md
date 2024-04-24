@@ -60,7 +60,7 @@ The following three options for technologies that can be used in the development
 
 #### Option C:
 
-- Use unity as client appllication and Python or C as the API backend.
+- Use Unity 3D game engine E as client appllication and Python or C as the API backend.
 
 ### Conclusion
 
