@@ -13,7 +13,7 @@ Bioinformatics toolshave been used to for the analysis of genes, genomes, and bi
 
 Here are some keyfeatures that will be included in our CRISPR simulation and chimeramaker tool:
 
-- **AI-basedprediction of CRISPR outcomes:** Using machine learning algorithms,our tool will be able to accurately predict the outcomes of CRISPR modifications, including targeted mutations, insertions or deletions.This will save time and resources for researchers, as they canevaluate the potential effects of modifications before conductingexperiments.
+- **AI-basedprediction of CRISPR outcomes:** Using machine learning algorithms, our tool will be able to accurately predict the outcomes of CRISPR modifications, including targeted mutations, insertions or deletions.This will save time and resources for researchers, as they canevaluate the potential effects of modifications before conductingexperiments.
 - **3D modeling fromDNA:** The tool will be able to convert DNA sequences into 3D models, providing a visual representation of the outcome of the geneticstructure. This will allow researchers to better predict thepossible outcome of the modification.
 - **Chimera maker:** Our tool will have the ability to merge DNA from different speciesand create chimeric DNA sequences. This feature can aid in thecreation of new organisms with specific traits and functions,advancing the capabilities of genetic engineering.
 - **Identificationof gene functions:** By analyzing the DNA sequence and usingbioinformatics tools, our tool will be able to predict the functions of genes and help researchers identify potential targets for modifications.
@@ -36,16 +36,16 @@ Here are some keyfeatures that will be included in our CRISPR simulation and chi
 
 ### Target Users
 
-Our project aims tobe a valuable tool for genetic engineers, molecular biologists,bioinformaticians, and researchers working in the field of genetics.It will also be beneficial for students and educators in biology andbiotechnology fields.
+Our project aims tobe a valuable tool for genetic engineers, molecular biologists,bioinformaticians, and researchers working in the field of genetics. It will also be beneficial for students and educators in biology andbiotechnology fields.
 
 ### Technology Stack (Yet to be Determined)
 
-The following is alist of technologies that may be used in the development of ourCRISPR simulation and chimera maker tool:
+The following is a list of technologies that may be used in the development of our CRISPR simulation and chimera maker tool:
 
-- **Programminglanguage:** Python will be the primary language used for this projectdue to its extensive libraries for AI, 3D modeling, andbioinformatics.
+- **Programminglanguage:** Python will be the primary language used for this projectdue to its extensive libraries for AI, 3D modeling, and bioinformatics.
 - **AI and machinelearning:** Libraries such as TensorFlow, Keras, and Scikit-learnwill be used to implement AI-based prediction algorithms.
-- **3D modeling:** Libraries such as PyMOL, Biopython, and Moltemplate will be used toconvert DNA sequences into 3D models and visualize them.
-- **Bioinformatics:** Libraries such as Biopython, BLAST, and Clustalwill be used for gene analysis and prediction of gene functions.
+- **3D modeling:** Libraries such as PyMOL, Biopython, and Moltemplate will be used to convert DNA sequences into 3D models and visualize them.
+- **Bioinformatics:** Libraries such as Biopython, BLAST, and Clustal will be used for gene analysis and prediction of gene functions.
 - **Virtuallaboratory:** Unity or any other game engine can be used to create avirtual laboratory environment where the CRISPR experiments can besimulated and observed.
 
 ### Conclusion
