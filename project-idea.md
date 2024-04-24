@@ -44,7 +44,7 @@ The following is a list of technologies that may be used in the development of o
 
 - **Programming language:** Python will be the primary language used for this project due to its extensive libraries for AI, 3D modeling, and bioinformatics.
 - **AI and machine learning:** Libraries such as TensorFlow, Keras, and Scikit-learn will be used to implement AI-based prediction algorithms.
-- **3D modeling:** Libraries such as PyMOL, Biopython, and Moltemplate will be used to convert DNA sequences into 3D models and visualize them.
+- **3D modeling:** Unity or any other game engine can be used to used to convert DNA sequences into 3D models and visualize them.
 - **Bioinformatics:** Libraries such as Biopython, BLAST, and Clustal will be used for gene analysis and prediction of gene functions.
 - **Virtual laboratory:** Unity or any other game engine can be used to create avirtual laboratory environment where the CRISPR experiments can besimulated and observed.
 
