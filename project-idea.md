@@ -54,7 +54,7 @@ In conclusion, our CRISPR simulation and chimera maker project aims to provide a
 
 ## Appendix A: DNA Format Proposal
 
-There are four DNA nucleotides: Adenine (A); Cytosine (C); Guanine (G); Thymine (T). Four possibilities can be stored into two bits. Since we want to read DNA as a condon as a packet of three, we need six bits to store one condon. There are 8 bits in a byte, so 2 bytes are left for another task as error checking or something else.
+There are four DNA nucleotides: Adenine (A); Cytosine (C); Guanine (G); Thymine (T). Four possibilities can be stored into two bits. Since we want to read DNA as a condon as a packet of three, we need six bits to store one condon. There are eight bits in a byte, so two bits are left for another task as error checking or something else.
 
 ### The Condons
 
