@@ -48,7 +48,7 @@ The following three options for technologies that can be used in the development
 - **AI and machine learning:** C compatible Libraries will be used to implement AI-based prediction algorithms.
 - **3D modeling:** OpenGL or a C language compatible game engine can be used to used to convert DNA sequences into 3D models and visualize them.
 - **Bioinformatics:** C compatible Libraries will be used for gene analysis and prediction of gene functions.
-- **Virtual laboratory:** OpenGL or a c language compatible game engine can be used to create avirtual laboratory environment where the CRISPR experiments can besimulated and observed.
+- **Virtual laboratory:** OpenGL or a C language compatible game engine can be used to create avirtual laboratory environment where the CRISPR experiments can be simulated and observed.
 
 #### Option B:
 
