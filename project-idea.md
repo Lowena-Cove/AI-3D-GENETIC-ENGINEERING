@@ -50,11 +50,11 @@ The following is alist of technologies that may be used in the development of ou
 
 ### Conclusion
 
-In conclusion, our CRISPR simulation and chimera maker project aims to provide acomprehensive tool for genetic engineering and research purposes. Bycombining AI, 3D modeling, and bioinformatics, it will be able toaccurately predict the outcomes of CRISPR modifications, aid in thecreation of chimeric DNA sequences, and provide a virtual laboratoryfor safe and efficient experimentation. We believe that this tool hasthe potential to significantly improve the efficiency and accuracy ofgenetic engineering and contribute to our understanding of genetics. 
+In conclusion, our CRISPR simulation and chimera maker project aims to provide acomprehensive tool for genetic engineering and research purposes. By combining AI, 3D modeling, and bioinformatics, it will be able to accurately predict the outcomes of CRISPR modifications, aid in the creation of chimeric DNA sequences, and provide a virtual laboratory for safe and efficient experimentation. We believe that this tool has the potential to significantly improve the efficiency and accuracy of genetic engineering and contribute to our understanding of genetics. 
 
 ## Appendix A: DNA Format Proposal
 
-There are four DNA nucleotides: Adenine (A); Cytosine (C); Guanine (G); Thymine (T).Four possibilities can be stored into two bits. Since we want to read DNA as a condon as a packet of three, we need six bits to store onecondon. There are 8 bits in a byte, so 2 bytes are left for anothertask as error checking or something else.
+There are four DNA nucleotides: Adenine (A); Cytosine (C); Guanine (G); Thymine (T).Four possibilities can be stored into two bits. Since we want to read DNA as a condon as a packet of three, we need six bits to store one condon. There are 8 bits in a byte, so 2 bytes are left for another task as error checking or something else.
 
 ### The Condons
 
