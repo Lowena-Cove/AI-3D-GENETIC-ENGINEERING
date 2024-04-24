@@ -4,35 +4,35 @@
 
 ### Introduction
 
-This is the project idea document of our CRISPR simulation and chimera maker tool that aims tosupport genetic engineering efforts using AI algorithms, 3D modelingand bioinformatics tools. It will help researchers design DNA and predict the functions and effects of genetic modifications andnon-existent creations. With its advanced features, this tool has thepotential to significantly improve the accuracy and efficiency ofgenetic engineering and contribute to our understanding of genetics.
-In short, it isdeveloping a comprehensive CRISPR simulation tool using AI. It canconvert DNA or parts of it into a 3D model. Moreover, it can estimate what happens if you change a certain gene or introduce a piece ofanother creature. The tool is also a Chimera maker and can thereforemerge DNA from different creatures into a new creature. With the tool we want to determine how a cell works and make better estimates.
-CRISPR is a powerfultool that allows researchers to edit DNA with precision andefficiency. However, the process can still be time-consuming and can yield unpredictable results. Therefore, it is crucial to have asimulation tool that can accurately predict the outcomes of CRISPR modifications.
-Bioinformatics toolshave been used to for the analysis of genes, genomes, and biological pathways, but there is still a need for a comprehensive simulationtool that combines AI, 3D modeling, and bioinformatics. Our projectaims to fill this gap and provide a platform for researchers todesign and simulate genetic modifications.
+This is the project idea document of our CRISPR simulation and chimera maker tool that aims tosupport genetic engineering efforts using AI algorithms, 3D modelingand bioinformatics tools. It will help researchers design DNA and predict the functions and effects of genetic modifications andn on-existent creations. With its advanced features, this tool has thepotential to significantly improve the accuracy and efficiency of genetic engineering and contribute to our understanding of genetics.
+In short, it is developing a comprehensive CRISPR simulation tool using AI. It can convert DNA or parts of it into a 3D model. Moreover, it can estimate what happens if you change a certain gene or introduce a piece of another creature. The tool is also a Chimera maker and can therefore merge DNA from different creatures into a new creature. With the tool we want to determine how a cell works and make better estimates.
+CRISPR is a powerful tool that allows researchers to edit DNA with precision and efficiency. However, the process can still be time-consuming and can yield unpredictable results. Therefore, it is crucial to have asimulation tool that can accurately predict the outcomes of CRISPR modifications.
+Bioinformatics tools have been used to for the analysis of genes, genomes, and biological pathways, but there is still a need for a comprehensive simulationtool that combines AI, 3D modeling, and bioinformatics. Our projectaims to fill this gap and provide a platform for researchers todesign and simulate genetic modifications.
 
 ### Features
 
 Here are some keyfeatures that will be included in our CRISPR simulation and chimeramaker tool:
 
-- **AI-basedprediction of CRISPR outcomes:** Using machine learning algorithms, our tool will be able to accurately predict the outcomes of CRISPR modifications, including targeted mutations, insertions or deletions.This will save time and resources for researchers, as they canevaluate the potential effects of modifications before conductingexperiments.
+- **AI-basedprediction of CRISPR outcomes:** Using machine learning algorithms, our tool will be able to accurately predict the outcomes of CRISPR modifications, including targeted mutations, insertions or deletions. This will save time and resources for researchers, as they canevaluate the potential effects of modifications before conductingexperiments.
 - **3D modeling from DNA:** The tool will be able to convert DNA sequences into 3D models, providing a visual representation of the outcome of the geneticstructure. This will allow researchers to better predict thepossible outcome of the modification.
-- **Chimera maker:** Our tool will have the ability to merge DNA from different speciesand create chimeric DNA sequences. This feature can aid in thecreation of new organisms with specific traits and functions,advancing the capabilities of genetic engineering.
-- **Identification of gene functions:** By analyzing the DNA sequence and usingbioinformatics tools, our tool will be able to predict the functions of genes and help researchers identify potential targets for modifications.
-- **Virtual CRISPR experiments:** The tool will have a built-in virtual laboratory where researchers can perform simulated CRISPR experiments and observe theoutcomes. This will provide a safe and efficient way to test andoptimize modifications before conducting experiments in a real laboratory.
+- **Chimera maker:** Our tool will have the ability to merge DNA from different species and create chimeric DNA sequences. This feature can aid in thecreation of new organisms with specific traits and functions,advancing the capabilities of genetic engineering.
+- **Identification of gene functions:** By analyzing the DNA sequence and using bioinformatics tools, our tool will be able to predict the functions of genes and help researchers identify potential targets for modifications.
+- **Virtual CRISPR experiments:** The tool will have a built-in virtual laboratory where researchers can perform simulated CRISPR experiments and observe theo utcomes. This will provide a safe and efficient way to test and optimize modifications before conducting experiments in a real laboratory.
 
 ### How It Works
 
-* Users input parameters for organisms, such as size, complexity, and known geneticdata.
+* Users input parameters for organisms, such as size, complexity, and known genetic data.
 * The simulation generates virtual organisms based on these parameters.
 * The AI analyzes simulated organism data, learning patterns of cell development, genetic sequences, and relative complexity.
-* As users provide unfinished genetic sequences, the AI predicts potential completionsbased on known evolutionary paths.
+* As users provide unfinished genetic sequences, the AI predicts potential completions based on known evolutionary paths.
 * Users can select organisms from the simulation or input external genetic data.
 * The AI assesses compatibility and potential outcomes, guiding users in creating chimeras with predicted characteristics.
 
 ### PotentialApplications
 
-* **Research Aid**: Scientists can use the tool to explore evolutionary relationshipsbetween organisms; Assess the feasibility of creating novel organismsthrough genetic modifications.
-* **Biomedical Innovation**: Aid in understanding genetic diseases by simulatingaffected organisms and potential gene therapies; Explore the creationof synthetic organisms for medical purposes.
-* **Educational Tool**: Universities and students can use the tool to understand complexgenetic concepts through interactive simulations; Demonstrate theimpact of genetic modifications and evolution on organismdevelopment.
+* **Research Aid**: Scientists can use the tool to explore evolutionary relationships between organisms; Assess the feasibility of creating novel organisms through genetic modifications.
+* **Biomedical Innovation**: Aid in understanding genetic diseases by simulating affected organisms and potential gene therapies; Explore the creation of synthetic organisms for medical purposes.
+* **Educational Tool**: Universities and students can use the tool to understand complex genetic concepts through interactive simulations; Demonstrate the impact of genetic modifications and evolution on organism development.
 
 ### Target Users
 
@@ -42,11 +42,11 @@ Our project aims tobe a valuable tool for genetic engineers, molecular biologist
 
 The following is a list of technologies that may be used in the development of our CRISPR simulation and chimera maker tool:
 
-- **Programminglanguage:** Python will be the primary language used for this project due to its extensive libraries for AI, 3D modeling, and bioinformatics.
-- **AI and machinelearning:** Libraries such as TensorFlow, Keras, and Scikit-learnwill be used to implement AI-based prediction algorithms.
+- **Programming language:** Python will be the primary language used for this project due to its extensive libraries for AI, 3D modeling, and bioinformatics.
+- **AI and machine learning:** Libraries such as TensorFlow, Keras, and Scikit-learnwill be used to implement AI-based prediction algorithms.
 - **3D modeling:** Libraries such as PyMOL, Biopython, and Moltemplate will be used to convert DNA sequences into 3D models and visualize them.
 - **Bioinformatics:** Libraries such as Biopython, BLAST, and Clustal will be used for gene analysis and prediction of gene functions.
-- **Virtuallaboratory:** Unity or any other game engine can be used to create avirtual laboratory environment where the CRISPR experiments can besimulated and observed.
+- **Virtual laboratory:** Unity or any other game engine can be used to create avirtual laboratory environment where the CRISPR experiments can besimulated and observed.
 
 ### Conclusion
 
@@ -54,7 +54,7 @@ In conclusion, our CRISPR simulation and chimera maker project aims to provide a
 
 ## Appendix A: DNA Format Proposal
 
-There are four DNA nucleotides: Adenine (A); Cytosine (C); Guanine (G); Thymine (T).Four possibilities can be stored into two bits. Since we want to read DNA as a condon as a packet of three, we need six bits to store one condon. There are 8 bits in a byte, so 2 bytes are left for another task as error checking or something else.
+There are four DNA nucleotides: Adenine (A); Cytosine (C); Guanine (G); Thymine (T). Four possibilities can be stored into two bits. Since we want to read DNA as a condon as a packet of three, we need six bits to store one condon. There are 8 bits in a byte, so 2 bytes are left for another task as error checking or something else.
 
 ### The Condons
 
