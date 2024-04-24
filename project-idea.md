@@ -40,7 +40,9 @@ Our project aims tobe a valuable tool for genetic engineers, molecular biologist
 
 ### Technology Stack (Yet to be Determined)
 
-The following three options for technologies that can be used in the development of our CRISPR simulation and chimera maker tool. For me, Dirk Jan, the C language is preferable, although it differs from the standard in AI development, namely Python. I would like to avoid Python because of the tab syntax which I don't like and C has everything a language needs. All these extra features, libraries and tricks in a modern languages have are useless and makes it more complicated, bigger, clunkier and slower. Just to express my opinion. We need to discuss this to reach a decision.
+We need to do more research on existing projects that we can use to achieve our goal, Dreamfusion for example. Our decision based on projects already created will determine our language choice. If we decide to build it from scratch or use other sources, that's up to us. I would also like to highlight my moludar audio/video tool, which we could use to render a video of a 3D model: https://github.com/dirkjanbuter/AV-Viewer (needs documentation) and the many filters (modules).
+
+The following three options for technologies that can be used in the development of our CRISPR simulation and chimera maker tool from scratch or partly. For me, Dirk Jan, the C language is preferable, although it differs from the standard in AI development, namely Python. I would like to avoid Python because of the tab syntax which I don't like and C has everything a language needs. All these extra features, libraries and tricks in a modern languages have are useless and makes it more complicated, bigger, clunkier and slower. Just to express my opinion. We need to discuss this to reach a decision.
 
 #### Option A:
 
