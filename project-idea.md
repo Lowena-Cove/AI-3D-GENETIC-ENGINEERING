@@ -47,31 +47,13 @@ Here are some keyfeatures that will be included in our CRISPR simulation and chi
 
 Our project aims tobe a valuable tool for genetic engineers, molecular biologists, bioinformaticians, and researchers working in the field of genetics. It will also be beneficial for students and educators in biology and biotechnology fields.
 
-### Technology Stack (Yet to be Determined)
-
-We need to do more research on existing projects that we can use to achieve our goal, Dreamfusion for example. Our decision based on projects already created will determine our language choice. If we decide to build it from scratch or use other sources, that's up to us. I would also like to highlight my moludar audio/video tool, which we could use to render a video of a 3D model: https://github.com/dirkjanbuter/AV-Viewer (needs documentation) and the many filters (modules).
-
-The following three options for technologies that can be used in the development of our CRISPR simulation and chimera maker tool from scratch or partly. For me, Dirk Jan, the C language is preferable, although it differs from the standard in AI development, namely Python. I would like to avoid Python because of the tab syntax which I don't like and C has everything a language needs. All these extra features, libraries and tricks in a modern languages have are useless and makes it more complicated, bigger, clunkier and slower. Just to express my opinion. We need to discuss this to reach a decision.
-
-#### Option A:
+### Technology Stack
 
 - **Programming language:** C will be the primary language used for this project due to it is a simplistic (no big clunky function libraries) and fast processing.
 - **AI and machine learning:** C compatible Libraries will be used to implement AI-based prediction algorithms.
 - **3D modeling:** OpenGL or a C language compatible game engine can be used to used to convert DNA sequences into 3D models and visualize them.
 - **Bioinformatics:** C compatible Libraries will be used for gene analysis and prediction of gene functions.
 - **Virtual laboratory:** OpenGL or a C language compatible game engine can be used to create avirtual laboratory environment where the CRISPR experiments can be simulated and observed.
-
-#### Option B:
-
-- **Programming language:** Python will be the primary language used for this project due to its extensive libraries for AI, 3D modeling, and bioinformatics.
-- **AI and machine learning:** Libraries such as TensorFlow, Keras, and Scikit-learn will be used to implement AI-based prediction algorithms.
-- **3D modeling:** Unity or any other game engine can be used to convert DNA sequences into 3D models and visualize them.
-- **Bioinformatics:** Libraries such as Biopython, BLAST, and Clustal will be used for gene analysis and prediction of gene functions.
-- **Virtual laboratory:** Unity or any other game engine can be used to create a virtual laboratory environment where the CRISPR experiments can be simulated and observed.
-
-#### Option C:
-
-- Use Unity 3D game engine as client appllication and Python or C as the API backend.
 
 ### Conclusion
 
