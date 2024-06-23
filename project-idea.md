@@ -4,10 +4,19 @@
 
 ### Introduction
 
-This is the project idea document of our CRISPR simulation and chimera maker tool that aims to support genetic engineering efforts using AI algorithms, 3D modelingand bioinformatics tools. It will help researchers design DNA and predict the functions and effects of genetic modifications and non-existent creations. With its advanced features, this tool has thepotential to significantly improve the accuracy and efficiency of genetic engineering and contribute to our understanding of genetics.
-In short, it is developing a comprehensive CRISPR simulation tool using AI. It can convert DNA or parts of it into a 3D model. Moreover, it can estimate what happens if you change a certain gene or introduce a piece of another creature. The tool is also a Chimera maker and can therefore merge DNA from different creatures into a new creature. With the tool we want to determine how a cell works and make better estimates.
-CRISPR is a powerful tool that allows researchers to edit DNA with precision and efficiency. However, the process can still be time-consuming and can yield unpredictable results. Therefore, it is crucial to have asimulation tool that can accurately predict the outcomes of CRISPR modifications.
-Bioinformatics tools have been used to for the analysis of genes, genomes, and biological pathways, but there is still a need for a comprehensive simulationtool that combines AI, 3D modeling, and bioinformatics. Our project aims to fill this gap and provide a platform for researchers to design and simulate genetic modifications.
+Charlie came up with the idea to create a simulation tool for editing DNA for CRISPR with artificial intelligence (AI). Because the idea appealed to me and I wanted to teach myself AI, I thought it would be a good idea to participate. The start-up of the project took a while, but in the end we got off to a good start.
+
+The idea is to first collect data from the DNA genome of animals and create or normalize models to create a clean data model. We will use this data model to train the neural network.
+
+Once we have the training data, we want to design and train the neural network. We train by linking our network results back to the results from the training data (back propagation).
+
+To make the memory work efficiently, we split the DNA strands into pieces of 3, or condons. We store a condon in 1 byte instead of the usually used 3 bytes per condon of the 64 possible condons.
+
+The model must be normalized so that, for example, the legs and head of each animal are in the same place. I don't think this is the same for every animal, we can also make different model types. The textures, material and normal map must be generated from the model output.
+
+We also need to train the network on parts of the entire genome to obtain the full or partial output of the animal. Mixing DNA should produce a combination result for crating a Chimera.
+
+After successfully achieving this, our plan is to create a cell simulator to improve the overall result of the simulation.
 
 ### Features
 
