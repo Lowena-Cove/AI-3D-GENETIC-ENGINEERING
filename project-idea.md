@@ -14,7 +14,7 @@ To make the memory work efficiently, we split the DNA strands into pieces of 3, 
 
 The model must be normalized so that, for example, the legs and head of each animal are in the same place. I don't think this is the same for every animal, we can also make different model types. The textures, material and normal map must be generated from the model output.
 
-We also need to train the network on parts of the entire genome to obtain the full or partial output of the animal. Mixing DNA should produce a combination result for crating a Chimera.
+We also need to train the network on parts of the entire genome to obtain the full or partial output of the animal. Mixing DNA should produce a combination result for crating a chimera.
 
 After successfully achieving this, our plan is to create a cell simulator to improve the overall result of the simulation.
 
